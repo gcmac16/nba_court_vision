@@ -15,3 +15,5 @@ As you can see, I have some pretty lofty goals so we'll see how far this gets. T
 * ***tmp:*** contains precomputed activations of different networks used in training, allows for much faster running of notebooks
 
 Unfortunately, due to size I was unable to upload the data set to github but I'm in the process of looking for a good place to host the data set.
+
+Copyright © 2018 gcmac16
