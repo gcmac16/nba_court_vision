@@ -7,7 +7,7 @@ Some of things I want to try with this project include:
   1. Learn to predict which game is is being viewed (where tuples of (home_team, away_team) constitute the label)
   2. Build a model that learns which home court the game is being played on.
   3. Train an object detection model to detect the location of the basket, ball and players 
-    a. Build a system to take these outputs and build the path of players across the posession.
+  4. Build a system to take these outputs and build the path of players across the posession.
     
 As you can see, I have some pretty lofty goals so we'll see how far this gets. The general layout of the repository is as follows:
 * ***nbs:*** contains the notebooks I've used for different parts of the modeling process
